@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interception>
+	<item>
+		<id>签发机关</id>
+		<x1>497</x1>
+		<y1>537</y1>
+		<width>274</width>
+		<height>57</height>
+		<outname>img_1.jpg</outname>
+	</item>
+	<item> 
+		<id>有效日期</id>
+		<x1>505</x1>
+		<y1>639</y1>
+		<width>482</width>
+		<height>54</height>
+		<outname>img_2.jpg</outname>
+	</item>
+
+</interception>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 二手车发票局部 -->
+<interception>
+	<item>
+		<id>买方单位/个人</id>
+		<x1>424</x1>
+		<y1>365</y1>
+		<width>74</width>
+		<height>32</height>
+		<outname>img_1.jpg</outname>
+	</item>
+	<item>
+		<id>卖方个人</id>
+		<x1>424</x1>
+		<y1>461</y1>
+		<width>72</width>
+		<height>35</height>
+		<outname>img_2.jpg</outname>
+	</item>
+	<item>
+		<id>卖方身份证号码</id>
+		<x1>1048</x1>
+		<y1>454</y1>
+		<width>220</width>
+		<height>29</height>
+		<outname>img_3.jpg</outname>
+	</item>
+	
+	<item>
+		<id>车架号</id>
+		<x1>421</x1>
+		<y1>601</y1>
+		<width>195</width>
+		<height>26</height>
+		<outname>img_4.jpg</outname>
+	</item>
+	
+</interception>

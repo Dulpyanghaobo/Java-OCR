@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interception>
+	<item>
+		<id>姓名</id>
+		<x1>287</x1>
+		<y1>140</y1>
+		<width>165</width>
+		<height>57</height>
+		<outname>img_1.jpg</outname>
+	</item>
+	<item> 
+		<id>性别</id>
+		<x1>280</x1>
+		<y1>235</y1>
+		<width>58</width>
+		<height>55</height>
+		<outname>img_2.jpg</outname>
+	</item>
+	<item>
+		<id>民族</id>
+		<x1>508</x1>
+		<y1>240</y1>
+		<width>54</width>
+		<height>49</height>
+		<outname>img_3.jpg</outname>
+	</item>
+	<item>
+		<id>年</id>
+		<x1>284</x1>
+		<y1>327</y1>
+		<width>115</width>
+		<height>49</height>
+		<outname>img_4.jpg</outname>
+	</item>
+	<item>
+		<id>月</id>
+		<x1>459</x1>
+		<y1>329</y1>
+		<width>43</width>
+		<height>47</height>
+		<outname>img_5.jpg</outname>
+	</item>
+	<item>
+		<id>日</id>
+		<x1>559</x1>
+		<y1>331</y1>
+		<width>51</width>
+		<height>38</height>
+		<outname>img_6.jpg</outname>
+	</item>
+	
+	<item>
+		<id>住址</id>
+		<x1>275</x1>
+		<y1>420</y1>
+		<width>481</width>
+		<height>123</height>
+		<outname>img_7.jpg</outname>
+	</item>
+	<item>
+		<id>公民身份号码</id>
+		<x1>447</x1>
+		<y1>640</y1>
+		<width>631</width>
+		<height>66</height>
+		<outname>img_8.jpg</outname>
+	</item>
+	
+
+</interception>

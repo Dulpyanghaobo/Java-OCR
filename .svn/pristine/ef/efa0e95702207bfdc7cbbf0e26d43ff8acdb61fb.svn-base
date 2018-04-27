@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+
+<interception>
+	<item>
+		<id>机动车登记证书编号</id>
+		<x1>574</x1>
+		<y1>19</y1>
+		<width>145</width>
+		<height>29</height>
+		<outname>img_1.jpg</outname>
+	</item>
+	<item> 
+		<id>机动车所有人/身份证明名称/号码</id>
+		<x1>272</x1>
+		<y1>63</y1>
+		<width>243</width>
+		<height>23</height>
+		<outname>img_2.jpg</outname>
+	</item>
+
+</interception>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interception>
+	
+	<item>
+		<id>姓名/名称</id>
+		<x1>101</x1>
+		<y1>110</y1>
+		<width>36</width>
+		<height>16</height>
+		<outname>img_1.jpg</outname>
+	</item>
+	<item>
+		<id>身份证明名称</id>
+		<x1>385</x1>
+		<y1>112</y1>
+		<width>154</width>
+		<height>14</height>
+		<outname>img_2.jpg</outname>
+	</item>
+	<item>
+		<id>获得方式</id>
+		<x1>96</x1>
+		<y1>132</y1>
+		<width>26</width>
+		<height>16</height>
+		<outname>img_3.jpg</outname>
+	</item>
+	
+	<item>
+		<id>姓名</id>
+		<x1>98</x1>
+		<y1>174</y1>
+		<width>37</width>
+		<height>16</height>
+		<outname>img_4.jpg</outname>
+	</item>
+	
+</interception>

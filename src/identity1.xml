@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interception>
+	<item>
+		<id>姓名</id>
+		<x1>270</x1>
+		<y1>149</y1>
+		<width>165</width>
+		<height>57</height>
+		<outname>img_1.jpg</outname>
+	</item>
+	<item> 
+		<id>性别</id>
+		<x1>270</x1>
+		<y1>247</y1>
+		<width>58</width>
+		<height>55</height>
+		<outname>img_2.jpg</outname>
+	</item>
+	<item>
+		<id>民族</id>
+		<x1>501</x1>
+		<y1>257</y1>
+		<width>54</width>
+		<height>49</height>
+		<outname>img_3.jpg</outname>
+	</item>
+	<item>
+		<id>出生</id>
+		<x1>278</x1>
+		<y1>335</y1>
+		<width>358</width>
+		<height>59</height>
+		<outname>img_4.jpg</outname>
+	</item>
+	<item>
+		<id>住址</id>
+		<x1>272</x1>
+		<y1>420</y1>
+		<width>481</width>
+		<height>123</height>
+		<outname>img_5.jpg</outname>
+	</item>
+	<item>
+		<id>公民身份号码</id>
+		<x1>445</x1>
+		<y1>650</y1>
+		<width>631</width>
+		<height>66</height>
+		<outname>img_6.jpg</outname>
+	</item>
+	
+
+</interception>

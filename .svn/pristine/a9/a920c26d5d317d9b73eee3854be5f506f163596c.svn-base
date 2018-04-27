@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<interception>
+	<item>
+		<id>机动车所有人/身份证明名称/号码</id>
+		<x1>500</x1>
+		<y1>120</y1>
+		<width>449</width>
+		<height>34</height>
+		<outname>img_1.jpg</outname>
+	</item>
+</interception>

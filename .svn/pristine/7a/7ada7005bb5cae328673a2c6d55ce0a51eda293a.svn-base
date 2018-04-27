@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<interception>
+	<item>
+		<id>车架号</id>
+		<x1>304</x1>
+		<y1>193</y1>
+		<width>215</width>
+		<height>25</height>
+		<outname>img_1.jpg</outname>
+	</item>
+	<item> 
+		<id>车辆获得方式</id>
+		<x1>299</x1>
+		<y1>764</y1>
+		<width>55</width>
+		<height>24</height>
+		<outname>img_2.jpg</outname>
+	</item>
+	
+	<item> 
+		<id>车辆出厂日期</id>
+		<x1>716</x1>
+		<y1>764</y1>
+		<width>135</width>
+		<height>24</height>
+		<outname>img_3.jpg</outname>
+	</item>
+
+</interception>
